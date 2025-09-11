@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://your-website-url.example.com/index.html</loc>
-    <lastmod>2025-09-11T11:39:15.430Z</lastmod>
-  </url>
-  <url>
-    <loc>https://your-website-url.example.com/posts/post-with-code/index.html</loc>
+    <loc>https://your-website-url.example.com/posts/welcome/index.html</loc>
     <lastmod>2025-09-11T11:32:45.180Z</lastmod>
   </url>
   <url>
@@ -13,7 +9,11 @@
     <lastmod>2025-09-11T11:38:57.188Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/posts/welcome/index.html</loc>
+    <loc>https://your-website-url.example.com/index.html</loc>
+    <lastmod>2025-09-11T14:50:19.505Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/posts/post-with-code/index.html</loc>
     <lastmod>2025-09-11T11:32:45.180Z</lastmod>
   </url>
 </urlset>

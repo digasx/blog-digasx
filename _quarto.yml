@@ -1,15 +1,19 @@
 project:
   type: website
+  preview: 
+    port: 8080
+    browser: false
 
 website:
   description: "A blog built with Quarto"
   site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
-  title: "ProjetoTomorrowVC"
+  title: ""
   navbar:
+    logo: ""
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/digasx
       - icon: twitter
         href: https://twitter.com
 format:
