@@ -5,7 +5,7 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Portifólio</title>
+<title>Blog</title>
 <link>https://your-website-url.example.com/</link>
 <atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
@@ -16,6 +16,7 @@
   <dc:creator>Harlow Malloc</dc:creator>
   <link>https://your-website-url.example.com/posts/post-with-code/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -38,6 +39,7 @@
   <dc:creator>Tristan O&#39;Malley</dc:creator>
   <link>https://your-website-url.example.com/posts/welcome/</link>
   <description><![CDATA[ 
+
 
 
 

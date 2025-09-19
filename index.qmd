@@ -1,5 +1,5 @@
 ---
-title: "Portifólio"
+title: "Olá, seja bem-vindo(a) ao meu Blog Pessoal!"
 listing:
   contents: posts
   feed: true
