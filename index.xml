@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Blog Pessoal de Rodrigo Araújo</title>
-<link>https://your-website-url.example.com/</link>
-<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://digasx.github.io/blog-digasx/</link>
+<atom:link href="https://digasx.github.io/blog-digasx/index.xml" rel="self" type="application/rss+xml"/>
 <description>Um blog pessoal sobre desenvolvimento de software, tecnologia e afins.</description>
 <generator>quarto-1.8.24</generator>
 <lastBuildDate>Wed, 24 Sep 2025 03:00:00 GMT</lastBuildDate>
 <item>
   <title>Java: Uma linguagem injustiçada</title>
   <dc:creator>Rodrigo Araújo</dc:creator>
-  <link>https://your-website-url.example.com/posts/java-1/</link>
+  <link>https://digasx.github.io/blog-digasx/posts/java-1/</link>
   <description><![CDATA[ 
 
 
@@ -23,7 +23,7 @@
 
 
 <p>Um pequeno post sobre o porquê o Javinha vale a pena.</p>
-<p><img src="https://your-website-url.example.com/posts/java-1/java-logo2.png" class="img-fluid"></p>
+<p><img src="https://digasx.github.io/blog-digasx/posts/java-1/java-logo2.png" class="img-fluid"></p>
 <hr>
 <section id="odeia-java-o-mercado-de-trabalho-discorda-de-você." class="level1">
 <h1>Odeia Java? O mercado de trabalho discorda de você.</h1>
@@ -34,7 +34,7 @@
 <li><p><strong>Ecossistema Inigualável:</strong> Nenhum ecossistema de desenvolvimento é tão vasto e testado em batalha quanto o do Java. Com ferramentas como <strong>Spring</strong>, <strong>Hibernate</strong>, <strong>Maven/Gradle</strong> e uma infinidade de bibliotecas, um desenvolvedor Java tem uma solução pronta para quase qualquer problema. Isso significa mais velocidade e menos custo para as empresas.</p></li>
 <li><p><strong>Escalabilidade Comprovada:</strong> Quer construir um sistema que atenda a milhões de usuários simultaneamente? Java e a JVM foram feitos para isso. Twitter, LinkedIn, Netflix e Amazon são provas vivas de que a tecnologia escala para níveis globais.</p></li>
 </ul>
-<p><img src="https://your-website-url.example.com/posts/java-1/java-cafe.jpg" class="img-fluid"></p>
+<p><img src="https://digasx.github.io/blog-digasx/posts/java-1/java-cafe.jpg" class="img-fluid"></p>
 <p><strong>Em resumo:</strong></p>
 <p>Pode não ser a linguagem mais “hypada” do momento, mas o Java é a espinha dorsal silenciosa de grande parte da internet e do mundo corporativo. Aprender e dominar Java não é apenas sobre conhecer uma linguagem de programação; é sobre abrir as portas para as oportunidades de carreira mais estáveis, desafiadoras e bem remuneradas do mercado de TI. Enquanto outros discutem qual a melhor nova linguagem da semana, os desenvolvedores Java estão construindo, mantendo e escalando os sistemas que o mundo usa todos os dias.</p>
 
@@ -45,13 +45,13 @@
   <category>notícias</category>
   <category>código</category>
   <category>tecnologia</category>
-  <guid>https://your-website-url.example.com/posts/java-1/</guid>
+  <guid>https://digasx.github.io/blog-digasx/posts/java-1/</guid>
   <pubDate>Wed, 24 Sep 2025 03:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Seja bem-vindo(a) ao meu blog!</title>
   <dc:creator>Rodrigo Araújo</dc:creator>
-  <link>https://your-website-url.example.com/posts/welcome/</link>
+  <link>https://digasx.github.io/blog-digasx/posts/welcome/</link>
   <description><![CDATA[ 
 
 
@@ -60,13 +60,13 @@
 
 
 <p>Este é o meu primeiro post!!</p>
-<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p><img src="https://digasx.github.io/blog-digasx/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
 
 
 
  ]]></description>
   <category>notícias</category>
-  <guid>https://your-website-url.example.com/posts/welcome/</guid>
+  <guid>https://digasx.github.io/blog-digasx/posts/welcome/</guid>
   <pubDate>Tue, 23 Sep 2025 03:00:00 GMT</pubDate>
 </item>
 </channel>
