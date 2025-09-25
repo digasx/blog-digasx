@@ -1,5 +1,6 @@
 ---
-title: "Portifólio"
+title: "Olá, seja bem-vindo(a)!"
+lang: pt
 listing:
   contents: posts
   feed: true

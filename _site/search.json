@@ -2,29 +2,29 @@
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "title": "Seja bem-vindo(a) ao meu blog!",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
+    "text": "Este é o meu primeiro post!!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Portifólio",
+    "title": "Olá, seja bem-vindo(a)!",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nSep 11, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 8, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Java: Uma linguagem injustiçada\n\n\n\nnotícias\n\ncódigo\n\ntecnologia\n\n\n\n\n\n\n\n\n\n24 de set. de 2025\n\n\nRodrigo Araújo\n\n\n\n\n\n\n\n\n\n\n\n\nSeja bem-vindo(a) ao meu blog!\n\n\n\nnotícias\n\n\n\n\n\n\n\n\n\n23 de set. de 2025\n\n\nRodrigo Araújo\n\n\n\n\n\nNenhum item correspondente"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Sobre",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "Olá! Sou Rodrigo Araújo, um desenvolvedor de software que adora tecnologia. Minhas ferramentas favoritas no momento são Java (com Spring Boot) e Python. Se você curte papo sobre back-end, algoritmos, estrutura de dados e como fazer um código melhor a cada dia, sinta-se em casa!"
+  },
+  {
+    "objectID": "posts/java-1/index.html",
+    "href": "posts/java-1/index.html",
+    "title": "Java: Uma linguagem injustiçada",
+    "section": "",
+    "text": "Um pequeno post sobre o porquê o Javinha vale a pena.\n\n\n\nOdeia Java? O mercado de trabalho discorda de você.\nÉ moda entre desenvolvedores iniciantes e entusiastas de novas tecnologias torcer o nariz para o Java. No entanto, uma rápida olhada nas vagas de emprego para posições de backend, engenharia de dados ou desenvolvimento Android conta uma história muito diferente.\nPor que essa desconexão existe?\n\nEstabilidade e Segurança: Grandes empresas, especialmente do setor financeiro, e-commerce e telecomunicações, não podem se dar ao luxo de arriscar. Elas precisam de sistemas que funcionem de forma consistente por anos. A maturidade, a tipagem estática forte e a arquitetura segura do Java são exatamente o que elas procuram.\nEcossistema Inigualável: Nenhum ecossistema de desenvolvimento é tão vasto e testado em batalha quanto o do Java. Com ferramentas como Spring, Hibernate, Maven/Gradle e uma infinidade de bibliotecas, um desenvolvedor Java tem uma solução pronta para quase qualquer problema. Isso significa mais velocidade e menos custo para as empresas.\nEscalabilidade Comprovada: Quer construir um sistema que atenda a milhões de usuários simultaneamente? Java e a JVM foram feitos para isso. Twitter, LinkedIn, Netflix e Amazon são provas vivas de que a tecnologia escala para níveis globais.\n\n\nEm resumo:\nPode não ser a linguagem mais “hypada” do momento, mas o Java é a espinha dorsal silenciosa de grande parte da internet e do mundo corporativo. Aprender e dominar Java não é apenas sobre conhecer uma linguagem de programação; é sobre abrir as portas para as oportunidades de carreira mais estáveis, desafiadoras e bem remuneradas do mercado de TI. Enquanto outros discutem qual a melhor nova linguagem da semana, os desenvolvedores Java estão construindo, mantendo e escalando os sistemas que o mundo usa todos os dias."
   }
 ]
