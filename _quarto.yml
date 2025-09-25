@@ -5,14 +5,11 @@ project:
     browser: false
 
 website:
-  description: "A blog built with Quarto"
+  description: "Um blog pessoal sobre desenvolvimento de software, tecnologia e afins."
   site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
-  title: "Blog"
+  title: "Blog Pessoal de Rodrigo Araújo"
   navbar:
     logo: ""
-    left:
-      - text: "Home"
-        href: index.qmd 
     right:
       - about.qmd
       - icon: github

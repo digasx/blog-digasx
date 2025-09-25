@@ -6,7 +6,7 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/rodrigoaraujodev
+      href: https://www.linkedin.com/in/rodrigoaraujodev/
     - icon: github
       text: Github
       href: https://github.com/digasx

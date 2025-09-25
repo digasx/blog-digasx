@@ -5,16 +5,16 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Blog</title>
+<title>Blog Pessoal de Rodrigo Araújo</title>
 <link>https://your-website-url.example.com/</link>
 <atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
-<description>A blog built with Quarto</description>
+<description>Um blog pessoal sobre desenvolvimento de software, tecnologia e afins.</description>
 <generator>quarto-1.8.24</generator>
-<lastBuildDate>Thu, 11 Sep 2025 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 24 Sep 2025 03:00:00 GMT</lastBuildDate>
 <item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://your-website-url.example.com/posts/post-with-code/</link>
+  <title>Java: Uma linguagem injustiçada</title>
+  <dc:creator>Rodrigo Araújo</dc:creator>
+  <link>https://your-website-url.example.com/posts/java-1/</link>
   <description><![CDATA[ 
 
 
@@ -22,21 +22,35 @@
 
 
 
-<p>This is a post with executable code.</p>
+<p>Um pequeno post sobre o porquê o Javinha vale a pena.</p>
+<p><img src="https://your-website-url.example.com/posts/java-1/java-logo2.png" class="img-fluid"></p>
+<hr>
+<section id="odeia-java-o-mercado-de-trabalho-discorda-de-você." class="level1">
+<h1>Odeia Java? O mercado de trabalho discorda de você.</h1>
+<p>É moda entre desenvolvedores iniciantes e entusiastas de novas tecnologias torcer o nariz para o Java. No entanto, uma rápida olhada nas vagas de emprego para posições de backend, engenharia de dados ou desenvolvimento Android conta uma história muito diferente.</p>
+<p>Por que essa desconexão existe?</p>
+<ul>
+<li><p><strong>Estabilidade e Segurança:</strong> Grandes empresas, especialmente do setor financeiro, e-commerce e telecomunicações, não podem se dar ao luxo de arriscar. Elas precisam de sistemas que funcionem de forma consistente por anos. A maturidade, a tipagem estática forte e a arquitetura segura do Java são exatamente o que elas procuram.</p></li>
+<li><p><strong>Ecossistema Inigualável:</strong> Nenhum ecossistema de desenvolvimento é tão vasto e testado em batalha quanto o do Java. Com ferramentas como <strong>Spring</strong>, <strong>Hibernate</strong>, <strong>Maven/Gradle</strong> e uma infinidade de bibliotecas, um desenvolvedor Java tem uma solução pronta para quase qualquer problema. Isso significa mais velocidade e menos custo para as empresas.</p></li>
+<li><p><strong>Escalabilidade Comprovada:</strong> Quer construir um sistema que atenda a milhões de usuários simultaneamente? Java e a JVM foram feitos para isso. Twitter, LinkedIn, Netflix e Amazon são provas vivas de que a tecnologia escala para níveis globais.</p></li>
+</ul>
+<p><img src="https://your-website-url.example.com/posts/java-1/java-cafe.jpg" class="img-fluid"></p>
+<p><strong>Em resumo:</strong></p>
+<p>Pode não ser a linguagem mais “hypada” do momento, mas o Java é a espinha dorsal silenciosa de grande parte da internet e do mundo corporativo. Aprender e dominar Java não é apenas sobre conhecer uma linguagem de programação; é sobre abrir as portas para as oportunidades de carreira mais estáveis, desafiadoras e bem remuneradas do mercado de TI. Enquanto outros discutem qual a melhor nova linguagem da semana, os desenvolvedores Java estão construindo, mantendo e escalando os sistemas que o mundo usa todos os dias.</p>
 
 
+</section>
 
  ]]></description>
-  <category>news</category>
-  <category>code</category>
-  <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
-  <pubDate>Thu, 11 Sep 2025 03:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+  <category>notícias</category>
+  <category>código</category>
+  <category>tecnologia</category>
+  <guid>https://your-website-url.example.com/posts/java-1/</guid>
+  <pubDate>Wed, 24 Sep 2025 03:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Welcome To My Blog</title>
-  <dc:creator>Tristan O&#39;Malley</dc:creator>
+  <title>Seja bem-vindo(a) ao meu blog!</title>
+  <dc:creator>Rodrigo Araújo</dc:creator>
   <link>https://your-website-url.example.com/posts/welcome/</link>
   <description><![CDATA[ 
 
@@ -45,16 +59,15 @@
 
 
 
-<p>This is the first post in a Quarto blog. Welcome!</p>
+<p>Este é o meu primeiro post!!</p>
 <p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
 
 
 
  ]]></description>
-  <category>news</category>
+  <category>notícias</category>
   <guid>https://your-website-url.example.com/posts/welcome/</guid>
-  <pubDate>Mon, 08 Sep 2025 03:00:00 GMT</pubDate>
+  <pubDate>Tue, 23 Sep 2025 03:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
